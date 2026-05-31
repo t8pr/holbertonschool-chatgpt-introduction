@@ -4,7 +4,7 @@ This repository focuses on fixing runtime exceptions, handling edge cases, valid
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 All completed assignments are located inside the `debugging/` directory:
 
@@ -20,7 +20,7 @@ All completed assignments are located inside the `debugging/` directory:
 
 ---
 
-## 🛠️ Summary of Tasks
+## Summary of Tasks
 
 ### 0. Python Factorial
 * **Problem:** Loop hung forever because the loop counter never changed.
